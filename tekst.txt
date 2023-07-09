@@ -1,2 +1,2 @@
 dodan neki test za prvi commit
-
+dodan tekst add
